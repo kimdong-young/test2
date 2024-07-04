@@ -17,3 +17,5 @@
 을 입력하고 엔터
 
 www.google.com
+
+[이미지](f1/f2/open-doodles-chilling.png)
