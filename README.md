@@ -18,4 +18,9 @@
 
 www.google.com
 
-[이미지](f1/f2/open-doodles-chilling.png)
+[이미지](./f1/f2/)
+
+
+![꽃 사진][Flower Image]
+
+[Flower Image]: ./f1/f2/f3/open-doodles-chilling.png
